@@ -1,0 +1,25 @@
+{
+  "name": "diceybusinessts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "tsc app.ts -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaymoo87/DiceyBusiness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaymoo87/DiceyBusiness/issues"
+  },
+  "homepage": "https://github.com/Jaymoo87/DiceyBusiness#readme",
+  "dependencies": {
+    "@types/jquery": "^3.5.14",
+    "jquery": "^3.6.1",
+    "typescript": "^4.9.3"
+  }
+}
